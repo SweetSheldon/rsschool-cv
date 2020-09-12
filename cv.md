@@ -23,5 +23,5 @@ while(!isDead){
   }
   ```
 6. Read some books like: New big book CSS, Headfirst(CSSHTML and JS)
-7. Education (including courses, seminars, lectures, online learning)
+7. SoloLearn courses, code-basic, RS School IOS course (1st step)
 8. A2
