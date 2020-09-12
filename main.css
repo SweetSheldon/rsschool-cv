@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html, body{
+  height: 100%;
+  min-height: 100% !important;
+  width: 100%;
+  background-color: rgb(223, 223, 223)
+}
+
+main{
+  max-width: 1024px;
+//  position: absolute;
+  height: 87%;
+  margin: 3% auto;
+}
+#student{
+padding-left: 15px;
+}
+.main{
+  background-color: rgba(145, 218, 218, 0.3);
+  margin: 10%;
+  width: 77%;
+  border: 1px solid green;
+  display: table-cell;
+  padding-left: 35px;
+}
+
+.myProgress{
+  padding: 25px 5px;
+}
+
+.sidebar{
+  width: auto;
+  border: 1px solid red;
+  display: table-cell;
+  background-color: rgba(63, 230, 230, 0.3);
+  height: 85vh;
+}
+
+h1,h2,h3,h4,div,main{
+  padding: 0;
+}
+.sidebar_header{
+  background-color: rgba(42, 115, 200, 0.78);
+  padding: 20px 10px;
+}
+
+.aboutMe, .education, .languages{
+  padding: 20px 10px;
+}
+ul{padding-left: 15px;
+}
